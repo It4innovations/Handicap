@@ -82,3 +82,5 @@ given order and regularity was found.
 We prepared some example of this program. If you set the main constantats for:
 REGULARITY: 4, VERTICES_COUNT = 12, THREAD_COUNT = 1, STARTING_LABEL = 1 and after that save the file main.cpp. Compaile it and run it. The result will be same like file locates in test/result4-12.txt. The result has got 10 results of labeling graphs.
 
+# License
+This project is made available under the BSD 2-Clause License.
