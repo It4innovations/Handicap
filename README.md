@@ -42,8 +42,8 @@ Please check the necessary program requirements on your local machine.
 ## Download and install project
 
 For this purpose, we use git client.
-At the first step, we will open terminal and execute command ```git clone https://code.it4i.cz/ADAS/ExtendingHandicapGraphLabeling```.
-After that, we open folder `ExtendingHandicapGraphLabeling` via command `cd ExtendingHandicapGraphLabeling` and 
+At the first step, we will open terminal and execute command ```git clone https://github.com/It4innovations/Handicap```.
+After that, we open folder `Handicap` via command `cd Handicap` and 
 enter the final command for compilation `make`.
 
 ## Running a program
